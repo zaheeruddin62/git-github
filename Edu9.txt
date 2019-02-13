@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 First Rebase
+=======
+Hello Brother
+I'm just practicing
+>>>>>>> firstsubbranch
